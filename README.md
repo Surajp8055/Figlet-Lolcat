@@ -1,6 +1,6 @@
 # Figlet-Lolcat
 termux tools
-# got clone https://github.com/Surajp8055/Figlet-Lolcat
+# git clone https://github.com/Surajp8055/Figlet-Lolcat
 
 # cd Figlet-Lolcat
 
